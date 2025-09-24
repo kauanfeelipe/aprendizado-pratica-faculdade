@@ -1,4 +1,4 @@
-# 📚 Aprendizados da Faculdade  
+# 📚 Aprendizados/Pratica
 
 Repositório criado para armazenar anotações, exercícios e pequenos projetos desenvolvidos ao longo da faculdade.  
 O objetivo é registrar meu progresso, organizar conteúdos estudados e praticar versionamento com Git/GitHub.  
